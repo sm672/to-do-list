@@ -1,0 +1,15 @@
+input {
+  width: 100%;
+}
+
+.button-one {
+  min-width: 80px;
+}
+
+.row-one {
+  margin: 10px 5px;
+}
+
+*{
+  background-color: aquamarine;
+}
